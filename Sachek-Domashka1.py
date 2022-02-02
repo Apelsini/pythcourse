@@ -5,3 +5,5 @@ L = 3
 tot_price = (M + N / 100) * L
 tot_price_typized = tot_price * 100 // 1 / 100
 print("общая цена в рублях и копейках=", tot_price_typized)
+
+
